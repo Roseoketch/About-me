@@ -20,11 +20,12 @@ h1{
   color:blue;
 
 }
-.sidebar{
+.container{
   float:right;
   margin-bottom: 250%;
+  margin-top: 7%;
   /* width: 25%; */
-  padding-bottom: 350%;
+  /* padding-bottom: 350%; */
 }
 p {
   color:white;
