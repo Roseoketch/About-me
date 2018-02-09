@@ -1,5 +1,5 @@
 body{
-  /* color: black; */
+  background-color: grey;
 }
 img{
   /* color: white; */
@@ -11,13 +11,24 @@ img{
   /* height: 5%; */
 }
 h1{
-  /* text-align:center; */
+  text-align:center;
   margin-top: 8%;
-  border:2px solid grey;
+  border:2px solid black;
   padding:6px;
-  /* margin-left:40%; */
-  margin-right: 85%;
+  margin-left:40%;
+  margin-right: 40%;
   color:blue;
 
 }
-h3
+.sidebar{
+  float:right;
+  margin-bottom: 250%;
+  /* width: 25%; */
+  padding-bottom: 350%;
+}
+p {
+  color:white;
+}
+#about{
+  /* margin: 8%; */
+}
